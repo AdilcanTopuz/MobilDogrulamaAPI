@@ -1,0 +1,7 @@
+c:\users\act\documents\visual studio 2015\Projects\MobilDogrulamaAPI\MobilDogrulamaAPI\bin\Debug\MobilDogrulamaAPI.dll
+c:\users\act\documents\visual studio 2015\Projects\MobilDogrulamaAPI\MobilDogrulamaAPI\bin\Debug\MobilDogrulamaAPI.pdb
+c:\users\act\documents\visual studio 2015\Projects\MobilDogrulamaAPI\MobilDogrulamaAPI\bin\Debug\Newtonsoft.Json.dll
+c:\users\act\documents\visual studio 2015\Projects\MobilDogrulamaAPI\MobilDogrulamaAPI\bin\Debug\Newtonsoft.Json.xml
+c:\users\act\documents\visual studio 2015\Projects\MobilDogrulamaAPI\MobilDogrulamaAPI\obj\Debug\MobilDogrulamaAPI.csprojResolveAssemblyReference.cache
+c:\users\act\documents\visual studio 2015\Projects\MobilDogrulamaAPI\MobilDogrulamaAPI\obj\Debug\MobilDogrulamaAPI.dll
+c:\users\act\documents\visual studio 2015\Projects\MobilDogrulamaAPI\MobilDogrulamaAPI\obj\Debug\MobilDogrulamaAPI.pdb
